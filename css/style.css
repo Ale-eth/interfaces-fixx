@@ -1594,11 +1594,11 @@ li:hover {
 
 .carritoDesplegado.show {
     
-    width: 8.5rem;
-    height: 7rem;
+    width: 5rem;
+    height: 4rem;
     position: absolute;
-    top:  4.8125rem;
-    left: 66rem;
+    top:  3.5rem;
+    left: 18.5rem;
     display: flex;
     font-size: medium;
     background-color: rgba(57, 49, 49, 1);
